@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <h1>welcome edupoly</h1>
+      <h1>welcome to edupoly </h1>
     </>
   )
 }
