@@ -2,12 +2,16 @@
 
 
 function App() {
-  
+  const ar = [10,20,30]
 
   return (
-    <>
-      <h1>welcome edupoly</h1>
-    </>
+   <ul>
+    {
+      ar.map((a)=>{
+        return <li>{a}</li>
+      })
+    }
+   </ul>
   )
 }
 
