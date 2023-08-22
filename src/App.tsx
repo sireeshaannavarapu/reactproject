@@ -475,6 +475,3 @@ const ar = ["ranil","rahul","ravi","ram"]
 }
 
 export default App
-
-
-
